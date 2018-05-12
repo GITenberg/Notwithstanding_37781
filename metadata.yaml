@@ -1,0 +1,33 @@
+_repo: Notwithstanding_37781
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37781-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Cholmondeley, Mary
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '5732'
+    url: http://www.gutenberg.org/2009/agents/5732
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
+description: This smarter-than-average romance novel offers a piquant twist on the
+  standard boy-meets-girl formula, perhaps because author Mary Cholmondeley had resigned
+  herself to the fate of old maid by the age of eighteen, believing that she had neither
+  the looks nor the charm to ensnare a husband. Although Notwithstanding offers all
+  of the pleasures of an Austen novel, keen-eyed readers who read between the lines
+  will detect a bit of healthy skepticism about the social institutions and mores
+  ...
+gutenberg_issued: '2011-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Notwithstanding
+url: http://www.gutenberg.org/ebooks/37781
